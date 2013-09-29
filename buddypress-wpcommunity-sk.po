@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: BuddyPress\n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
 "POT-Creation-Date: 2013-07-31 13:35:19+00:00\n"
-"PO-Revision-Date: 2013-09-29 17:17+0100\n"
+"PO-Revision-Date: 2013-09-29 17:24+0100\n"
 "Last-Translator: \n"
 "Language-Team: wpcommunity.sk <info@wpcommunity.sk>\n"
 "Language: Slovak\n"
@@ -1751,11 +1751,12 @@ msgstr "Aksimet"
 
 #: bp-core/bp-core-admin.php:332
 msgid "About"
-msgstr ""
+msgstr "O"
 
 #: bp-core/bp-core-admin.php:383 bp-core/bp-core-admin.php:492
+#, fuzzy
 msgid "Welcome to BuddyPress %s"
-msgstr ""
+msgstr "Vitajte v BuddyPress-e %s"
 
 #: bp-core/bp-core-admin.php:386
 msgid "BuddyPress %s is our safest, fastest, most flexible version ever."
@@ -2688,7 +2689,7 @@ msgstr ""
 
 #: bp-forums/deprecated/1.6.php:100 bp-forums/deprecated/1.6.php:243
 msgid "And more!"
-msgstr ""
+msgstr "Pridať viac!"
 
 #: bp-forums/deprecated/1.6.php:103 bp-forums/deprecated/1.6.php:246
 msgid ""
@@ -6893,7 +6894,7 @@ msgstr "Zmeny uložené."
 
 #: bp-xprofile/bp-xprofile-screens.php:199
 msgid "There was a problem cropping your avatar."
-msgstr ""
+msgstr "Nastal problem pri úprave avataru."
 
 #: bp-xprofile/bp-xprofile-screens.php:201
 msgid "Your new avatar was uploaded successfully."
