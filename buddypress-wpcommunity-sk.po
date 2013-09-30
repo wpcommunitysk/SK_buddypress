@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: BuddyPress\n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
 "POT-Creation-Date: 2013-07-31 13:35:19+00:00\n"
-"PO-Revision-Date: 2013-09-29 17:24+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2013-09-30 08:41+0100\n"
+"Last-Translator: Martin Kukolos <martin@wpcommunity.sk>\n"
 "Language-Team: wpcommunity.sk <info@wpcommunity.sk>\n"
 "Language: Slovak\n"
 "MIME-Version: 1.0\n"
@@ -1754,7 +1754,6 @@ msgid "About"
 msgstr "O"
 
 #: bp-core/bp-core-admin.php:383 bp-core/bp-core-admin.php:492
-#, fuzzy
 msgid "Welcome to BuddyPress %s"
 msgstr "Vitajte v BuddyPress-e %s"
 
@@ -1809,8 +1808,9 @@ msgid "Members"
 msgstr "Členovia"
 
 #: bp-core/bp-core-admin.php:414
+#, fuzzy
 msgid "Community and Support"
-msgstr ""
+msgstr "Komunita a podpora"
 
 #: bp-core/bp-core-admin.php:415
 msgid ""
@@ -1848,8 +1848,9 @@ msgid "<em>Add</em>, <em>Remove</em>, and More, in a Snap"
 msgstr ""
 
 #: bp-core/bp-core-admin.php:436
+#, fuzzy
 msgid "Groups administration panel"
-msgstr ""
+msgstr "Panel administracie skupin"
 
 #: bp-core/bp-core-admin.php:443
 msgid ""
@@ -1860,8 +1861,9 @@ msgid ""
 msgstr ""
 
 #: bp-core/bp-core-admin.php:450
+#, fuzzy
 msgid "Under the Hood"
-msgstr ""
+msgstr "Pod kapotou"
 
 #: bp-core/bp-core-admin.php:454
 msgid "Superpowered Group Extensions"
@@ -3448,11 +3450,11 @@ msgstr "Uložiť zmeny"
 
 #: bp-groups/bp-groups-admin.php:907
 msgid "&laquo;"
-msgstr ""
+msgstr "&laquo;"
 
 #: bp-groups/bp-groups-admin.php:908
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: bp-groups/bp-groups-admin.php:914
 msgid "Viewing %1$s - %2$s of %3$s"
@@ -3513,7 +3515,7 @@ msgstr "Posledná aktivita"
 
 #: bp-groups/bp-groups-admin.php:1288
 msgid "Select group %1$d"
-msgstr ""
+msgstr "Vyber skupinu %1$d"
 
 #: bp-groups/bp-groups-adminbar.php:48 bp-groups/bp-groups-buddybar.php:33
 msgid "Edit Details"
@@ -3951,8 +3953,9 @@ msgstr ""
 "znovu."
 
 #: bp-groups/bp-groups-screens.php:652
+#, fuzzy
 msgid "There was a problem cropping the avatar."
-msgstr ""
+msgstr "Nastal problém so strihaním Vášho avatara."
 
 #: bp-groups/bp-groups-screens.php:654
 msgid "The new group avatar was uploaded successfully."
@@ -4362,8 +4365,9 @@ msgid "Please enter a username"
 msgstr "Zadajte prosím používateľské meno"
 
 #: bp-members/bp-members-functions.php:1136
+#, fuzzy
 msgid "That username is not allowed"
-msgstr ""
+msgstr "Toto používateľske meno nieje povolené"
 
 #: bp-members/bp-members-functions.php:1139
 msgid "Usernames can contain only letters, numbers, ., -, *, and @"
@@ -4824,8 +4828,9 @@ msgstr ""
 "time-since\"><span class=\"time-since\">%4$s</span></a>"
 
 #: bp-templates/bp-legacy/buddypress/activity/entry.php:50
+#, fuzzy
 msgid "View Conversation"
-msgstr ""
+msgstr "Zobraziť správy"
 
 #: bp-templates/bp-legacy/buddypress/activity/entry.php:58
 #: bp-themes/bp-default/activity/entry.php:60
